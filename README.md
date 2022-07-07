@@ -22,21 +22,21 @@ node server.js
 
 
 # CRUD operations
-1) Creat
+# 1) Creat
 
 ![image](https://user-images.githubusercontent.com/93200194/177757093-67905dd4-aa21-4da4-bd15-54ceda771239.png)
 
-2) Read 
+# 2) Read 
 
 ![image](https://user-images.githubusercontent.com/93200194/177757188-f122936e-5416-43d3-bd0f-5fce9c0f7e9f.png)
 
-3) Update 
+# 3) Update 
 
 ![image](https://user-images.githubusercontent.com/93200194/177757591-76a9eb2f-9b2d-442b-bab5-89e08289012c.png)
 ![image](https://user-images.githubusercontent.com/93200194/177760082-3728de6e-db97-47d8-b6b5-848dbbd2e00a.png)
 
 
-4) Delete
+# 4) Delete
 
 ![image](https://user-images.githubusercontent.com/93200194/177757735-3cdee803-8ece-49fa-b5de-eebc1c2cac32.png)
 ![image](https://user-images.githubusercontent.com/93200194/177760274-28f1cd78-59e6-4fa8-a4f0-b0c984be8b7a.png)
