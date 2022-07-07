@@ -1,18 +1,18 @@
-#EnazamAdminbro
-#Download first this project or
-#Make clone of this project
+# EnazamAdminbro
+# Download first this project or
+# Make clone of this project
 git clone https://github.com/taimoormansha/enazamAdminbro.git
 
-#Then follow these steps
+# Then follow these steps
 1)  npm init -y
 2)  npm install
 
 
-#For Run the server hit the comands in vs code terminal
+# For Run the server hit the comands in vs code terminal
 
 node server.js
 
-#Browse  http://localhost:8001/enazam
+# Browse  http://localhost:8001/enazam
 
 ![image](https://user-images.githubusercontent.com/93200194/177756346-f900261e-93c1-4a5d-8ae5-3b0d8ffbf54e.png)
 
@@ -21,7 +21,7 @@ node server.js
 ![image](https://user-images.githubusercontent.com/93200194/177756710-fc9aec41-799c-4da2-9eed-c2ef23e89c16.png)
 
 
-#CRUD operations
+# CRUD operations
 1) Creat
 
 ![image](https://user-images.githubusercontent.com/93200194/177757093-67905dd4-aa21-4da4-bd15-54ceda771239.png)
