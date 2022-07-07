@@ -33,7 +33,11 @@ node server.js
 3) Update 
 
 ![image](https://user-images.githubusercontent.com/93200194/177757591-76a9eb2f-9b2d-442b-bab5-89e08289012c.png)
+![image](https://user-images.githubusercontent.com/93200194/177760082-3728de6e-db97-47d8-b6b5-848dbbd2e00a.png)
+
 
 4) Delete
 
 ![image](https://user-images.githubusercontent.com/93200194/177757735-3cdee803-8ece-49fa-b5de-eebc1c2cac32.png)
+![image](https://user-images.githubusercontent.com/93200194/177760274-28f1cd78-59e6-4fa8-a4f0-b0c984be8b7a.png)
+
