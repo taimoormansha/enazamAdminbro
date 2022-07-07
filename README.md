@@ -1,6 +1,9 @@
-# enazamAdminbro
-# Download first this project
-Then follow these steps
+#EnazamAdminbro
+#Download first this project or
+#Make clone of this project
+git clone https://github.com/taimoormansha/enazamAdminbro.git
+
+#Then follow these steps
 1)  npm init -y
 2)  npm install
 
@@ -9,7 +12,7 @@ Then follow these steps
 
 node server.js
 
-Browse  http://localhost:8001/enazam
+#Browse  http://localhost:8001/enazam
 
 ![image](https://user-images.githubusercontent.com/93200194/177756346-f900261e-93c1-4a5d-8ae5-3b0d8ffbf54e.png)
 
